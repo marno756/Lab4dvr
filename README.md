@@ -1,5 +1,5 @@
 # Lab4dvr
-Distance vector routing java, modifie router node.
+Distance vector routing java, modify router node.
 
 
 ## Relevant lab
